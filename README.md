@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @premethium
 - 👀 I’m interested in Data Sciences, ML and AI
 - 🌱 I’m currently learning AI and ML
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on DX stuff
 - 📫 How to reach me : @premethium
 
 <!---
